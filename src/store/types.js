@@ -1,0 +1,1 @@
+export const SET_SCAN_RESULT = "SCANNER/SET_RESULT"
