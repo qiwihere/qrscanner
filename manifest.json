@@ -1,0 +1,9 @@
+{
+  "name": "stamp4cup",
+  "short_name": "stamp4cup",
+  "description": "stamp4cup",
+  "icons": [],
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "display": "standalone"
+}
